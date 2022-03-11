@@ -1,5 +1,5 @@
-butter
-chicken
-parmesan
-cilantro
-linguine
+butter x 1
+chicken x 1
+parmesan x 1
+cilantro x 1
+linguine x 1
